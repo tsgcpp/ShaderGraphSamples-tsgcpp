@@ -4,8 +4,8 @@ ShaderGraphで作ったものを追加していきます
 ## Samples
 
 ### TriangleWave
-- 三角波を利用した流れる波形
-- [【Unity】Shader Graphで波形っぽいもの](https://tsgcpp.hateblo.jp/entry/2020/09/11/010609)
+- 三角波を利用した流れる走査線
+- [【Unity】Shader Graphで走査線っぽいもの](https://tsgcpp.hateblo.jp/entry/2020/09/11/010609)
 
 ## Models
 ### Circle
